@@ -1,4 +1,5 @@
-#Index
+# Index
+[Basic Maths](### Basic Maths)
 ## Physics
 ### Basics Maths
 ```
