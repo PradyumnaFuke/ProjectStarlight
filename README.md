@@ -1,7 +1,7 @@
 # Index
-[Basic Maths](###BasicMaths)
+[1. Basic Maths](###BasicMaths)
 ## Physics ⚛️
-### Basics Maths
+### 1. Basics Maths
 ```
 Lectures: 0/14
 DPPs: 0/8
