@@ -1,5 +1,5 @@
 ## Physics
 ### Basics Maths
-`~~Lecture 1~~`
+` ~~Lecture 1~~ `
 ## Chemiistry
 ## Biology
