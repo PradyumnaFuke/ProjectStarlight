@@ -1,5 +1,7 @@
 # Index
-[Physics](##Physics)
+[Physics ⚛️](##Physics ⚛️)
+[Chemistry 🧪](##Chemistry 🧪)
+[Biology 🧬](##Biology 🧬)
 ## Physics ⚛️
 ### 1. Basics Maths
 ```
