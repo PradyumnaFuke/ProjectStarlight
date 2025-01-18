@@ -7,5 +7,5 @@ Lectures: 0/14
 DPPs: 0/8
 Flashcards: Incomplete
 ```
-## Chemiistry 🧪
+## Chemistry 🧪
 ## Biology 🧬
