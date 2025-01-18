@@ -1,5 +1,5 @@
 # Index
-[ ] [Physics ⚛️](##Physics⚛️)<br>
++ [Physics ⚛️](##Physics⚛️)<br>
 + [Chemistry 🧪](##Chemistry🧪)<br>
 + [Biology 🧬](##Biology🧬)
 ## Physics ⚛️
