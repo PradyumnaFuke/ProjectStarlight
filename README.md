@@ -2,6 +2,7 @@
 + [Physics ⚛️](##Physics⚛️)<br>
 + [Chemistry 🧪](##Chemistry🧪)<br>
 + [Biology 🧬](##Biology🧬)
++ [Test Scores](##TestScores)
 ## Physics ⚛️
 ### 1. Basics Maths
 ```
@@ -11,3 +12,4 @@ Flashcards: Incomplete
 ```
 ## Chemistry 🧪
 ## Biology 🧬
+## Test Scores
