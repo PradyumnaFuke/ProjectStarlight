@@ -1,6 +1,6 @@
 # Index
-+ [Physics ⚛️](##Physics⚛️)<br>
-+ [Chemistry 🧪](##Chemistry🧪)<br>
++ [Physics ⚛️](##Physics⚛️)
++ [Chemistry 🧪](##Chemistry🧪)
 + [Biology 🧬](##Biology🧬)
 + [Test Scores](##TestScores)
 ## Physics ⚛️
