@@ -1,8 +1,8 @@
 # Index
-+ [Physics ⚛️](##physics-⚛️)
-+ [Chemistry 🧪](##chemistry-🧪)
-+ [Biology 🧬](##biology-🧬)
-+ [Test Scores](##test-scores)
++ [Physics ⚛️](#physics-⚛️)
++ [Chemistry 🧪](#chemistry-🧪)
++ [Biology 🧬](#biology-🧬)
++ [Test Scores](#test-scores)
 ## Physics ⚛️
 ### 1. Basics Maths
 ```
