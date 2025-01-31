@@ -1,4 +1,4 @@
-### Index
+# Index
 + [Physics ⚛️](#physics-⚛️)
 + [Chemistry 🧪](#chemistry-🧪)
 + [Biology 🧬](#biology-🧬)
