@@ -13,10 +13,10 @@ Flashcards: Incomplete
 ## Chemistry 🧪
 ## Biology 🧬
 ## Test Scores
-| Header 1 | Header 2 | Header 3 | Header 1 | Header 2 | Header 3 |
-|:----------|:----------|:----------|:----------|:----------|:----------|
-| Data 1   | Data 2   | Data 3   | Data 4   | Data 5   | Data 6   |
-| Data 4   | Data 5   | Data 6   | Data 4   | Data 5   | Data 6   |
-| Data 4   | Data 5   | Data 6   | Data 4   | Data 5   | Data 6   |
-| Data 4   | Data 5   | Data 6   | Data 4   | Data 5   | Data 6   |
-| Data 4   | Data 5   | Data 6   | Data 4   | Data 5   | Data 6   |
+
+| head1        | head two          | three | head1        | head two          | three |
+|:-------------|:------------------|:------|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  | ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  | out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   | ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  | ok           | good `zoute` drop | yumm  |
